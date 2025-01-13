@@ -1,0 +1,7 @@
+RPMs,Cell Pressures (psia),Inlet Dynamic Pressures (in H2O),Inlet Temperatures (°C),Compressor Discharge Static Pressures (psia),Compressor Discharge Skin Temperatures (°C),Thrusts (N),Fuel Flows (kg/s),Exhaust Gas Temperatures (°C)
+0,14.82,0.001,21.3,14.6,47.9,0.1,0.0,84
+45000,14.82,0.12,21.3,16.0,35.9,0.9,0.74,588
+72700,14.82,0.34,21.6,19.3,43.7,2.3,0.91,524
+135600,14.82,1.515,22.6,30.0,92.8,10.0,2.77,610
+160000,14.82,2.06,23.3,37.0,128.4,14.8,4.24,772
+0,14.82,0.001,22.4,14.6,38.1,0.3,0.0,116
